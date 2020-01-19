@@ -1,0 +1,2666 @@
+{
+    "lens_id": "2f1a088c-4e7e-4b74-a959-75ca3112f591",
+    "document_id": "jVSWY3i5EiScw_8Sc7M6",
+    "original_document_id": "jVSWY3i5EiScw_8Sc7M6",
+    "version": "20",
+    "lastChanged": "1579408919350",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "71990253-realistic-transparent-shards-of-broken-glass-broken-glass-vector"
+                    ],
+                    [
+                        "Box"
+                    ],
+                    [
+                        "Broken_Windows_Free_Vector"
+                    ],
+                    [
+                        "Evidence1v2",
+                        "Animations"
+                    ],
+                    [
+                        "Evidence1v2",
+                        "Animations",
+                        "Plane001"
+                    ],
+                    [
+                        "Evidence1v2",
+                        "Animations",
+                        "Plane001 2"
+                    ],
+                    [
+                        "Evidence1v2",
+                        "Animations",
+                        "Plane002"
+                    ],
+                    [
+                        "Evidence1v2",
+                        "Animations",
+                        "Plane002 2"
+                    ],
+                    [
+                        "Evidence1v2",
+                        "Materials"
+                    ],
+                    [
+                        "Evidence1v2",
+                        "Materials",
+                        "02 - Default"
+                    ],
+                    [
+                        "Evidence1v2",
+                        "Materials",
+                        "02 - Default 2"
+                    ],
+                    [
+                        "Evidence1v2",
+                        "Materials",
+                        "Material #49"
+                    ],
+                    [
+                        "Evidence1v2",
+                        "Materials",
+                        "Material #49 2"
+                    ],
+                    [
+                        "Evidence1v2",
+                        "Meshes"
+                    ],
+                    [
+                        "Evidence1v2",
+                        "Meshes",
+                        "Plane001"
+                    ],
+                    [
+                        "EvidenceAnswer1"
+                    ],
+                    [
+                        "EvidenceAnswer1 2"
+                    ],
+                    [
+                        "EvidenceNote"
+                    ],
+                    [
+                        "EvidenceQuestion1Sm"
+                    ],
+                    [
+                        "FlowerPot"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "ground_grid"
+                    ],
+                    [
+                        "Materials",
+                        "matte_shadow"
+                    ],
+                    [
+                        "Materials",
+                        "touch_collision 2"
+                    ],
+                    [
+                        "Materials",
+                        "touch_collision 3"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "ground_grid"
+                    ],
+                    [
+                        "Meshes",
+                        "plane"
+                    ],
+                    [
+                        "Meshes",
+                        "touch_collision 2"
+                    ],
+                    [
+                        "Plane"
+                    ],
+                    [
+                        "Scripts",
+                        "GroundGrid"
+                    ],
+                    [
+                        "Scripts",
+                        "IdleAnim"
+                    ],
+                    [
+                        "Scripts",
+                        "TapAnim"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "ground_grid"
+                    ],
+                    [
+                        "Textures",
+                        "ground_grid_mask"
+                    ],
+                    [
+                        "broken-wooden-chair-with-green-seat-vector-9264514"
+                    ],
+                    [
+                        "color-clock-icon-flat-vector-21651320"
+                    ],
+                    [
+                        "footprints-vector-20872"
+                    ],
+                    [
+                        "grassland"
+                    ],
+                    [
+                        "imgbin-painting-decorative-arts-ico-icon-people-oil-painting-QTpSiJGMgXNjQ8GUW7UwPKYMk"
+                    ],
+                    [
+                        "room-interior-empty-space-1521959856NbA"
+                    ],
+                    [
+                        "system-file-manager"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1509493063153468:1772208",
+                    "1509493073990651:1772539",
+                    "1511399347201851:2395",
+                    "1520377866788181:87557",
+                    "1579368917099976:230052",
+                    "1579401484059374:321457",
+                    "1579405638730749:617642"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "781ce65516b8e6bdac914557e838eb86",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                "lens_hint_find_snapcode"
+            ],
+            "lens": "The Missing Ring",
+            "applicability": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Patio.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1498868868171510:1508",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "78",
+                    "uid": "1509493073991159:1772549",
+                    "name": "\/Resources\/Resource78",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "87",
+                    "uid": "1509583683665614:1822385",
+                    "name": "\/Resources\/Resource87.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "93",
+                    "uid": "1511399347240779:2470",
+                    "name": "\/Resources\/Resource93.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "95",
+                    "uid": "1511399347247632:2494",
+                    "name": "\/Resources\/Resource95.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "105",
+                    "uid": "1511404793151374:296403",
+                    "name": "\/Resources\/Resource105",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "107",
+                    "uid": "1579362912458308:165371",
+                    "name": "Files\/File30.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "108",
+                    "uid": "1579363007464793:166914",
+                    "name": "Files\/File32.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "110",
+                    "uid": "1579364164563918:175520",
+                    "name": "Files\/File35.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "111",
+                    "uid": "1579365435460711:180685",
+                    "name": "Files\/File37.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "112",
+                    "uid": "1579365586282559:184289",
+                    "name": "Files\/File39.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "119",
+                    "uid": "1579366371595559:191704",
+                    "name": "Files\/File52.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "121",
+                    "uid": "1579366696321988:194422",
+                    "name": "Files\/File55.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "122",
+                    "uid": "1579367267820953:199143",
+                    "name": "Files\/File57.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "124",
+                    "uid": "1579367430047575:202197",
+                    "name": "Files\/File61.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "126",
+                    "uid": "1579368032817915:217568",
+                    "name": "Files\/File65.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "127",
+                    "uid": "1579368912411971:229369",
+                    "name": "Files\/File67.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "128",
+                    "uid": "1579371743471967:254571",
+                    "name": "Files\/File69.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "129",
+                    "uid": "1579374120468269:272067",
+                    "name": "Files\/File71.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "131",
+                    "uid": "1579374999035303:294420",
+                    "name": "Files\/File76.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "132",
+                    "uid": "1579401483603325:321332",
+                    "name": "Files\/File79.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "133",
+                    "uid": "1579401483718681:321344",
+                    "name": "Files\/File81.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "134",
+                    "uid": "1579401483810012:321360",
+                    "name": "Files\/File83.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "135",
+                    "uid": "1579401483820918:321373",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "136",
+                    "uid": "1579401483822649:321400",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "137",
+                    "uid": "1579401483825281:321427",
+                    "name": "Files\/File84",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "138",
+                    "uid": "1579401483916439:321442",
+                    "name": "Files\/File86",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "139",
+                    "uid": "1579403317394423:383337",
+                    "name": "Files\/File88.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "140",
+                    "uid": "1579403317463503:383346",
+                    "name": "Files\/File89.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "141",
+                    "uid": "1579403494004524:433593",
+                    "name": "Files\/File90.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "142",
+                    "uid": "1579403494012356:433605",
+                    "name": "Files\/File91",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "143",
+                    "uid": "1579405637845614:617441",
+                    "name": "Files\/File93.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "144",
+                    "uid": "1579405637858591:617453",
+                    "name": "Files\/File94.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "145",
+                    "uid": "1579405637899090:617465",
+                    "name": "Files\/File95.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "146",
+                    "uid": "1579405638032741:617477",
+                    "name": "Files\/File97.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "147",
+                    "uid": "1579405638145095:617489",
+                    "name": "Files\/File99",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "148",
+                    "uid": "1579405638231863:617508",
+                    "name": "Files\/File101",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "149",
+                    "uid": "1579405638338742:617527",
+                    "name": "Files\/File103.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "150",
+                    "uid": "1579405638347964:617539",
+                    "name": "Files\/File104",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "151",
+                    "uid": "1579405638491053:617558",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "152",
+                    "uid": "1579405638492621:617585",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "153",
+                    "uid": "1579405638497098:617612",
+                    "name": "Files\/File106",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "154",
+                    "uid": "1579405638620673:617627",
+                    "name": "Files\/File108",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1520029812007074:742370",
+                "1": "1520377866788181:87557",
+                "2": "1579362926835097:165603",
+                "3": "1579363007474139:166970",
+                "4": "1579363542668670:170144",
+                "5": "1579364173404153:175848",
+                "6": "1579365413609603:179067",
+                "7": "1579366334164693:189718",
+                "8": "1579366703427961:194899",
+                "9": "1579366792321298:197255",
+                "10": "1579367569188384:205629",
+                "11": "1579368023454112:216166",
+                "12": "1579368078951075:219180",
+                "13": "1579373881586511:270381",
+                "14": "1579374309053712:273683",
+                "15": "1579403494090340:433620",
+                "16": "1579405638730749:617642",
+                "17": "1579405638731651:617644",
+                "18": "1579405638837795:617699",
+                "19": "1579405638841491:617719",
+                "20": "1579405638843687:617733",
+                "21": "1579405638844232:617735",
+                "22": "1579405638846229:617751",
+                "23": "1579407850539150:625613"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "4",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "6",
+                    "v": "Files\/File6.js"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.mesh"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.lsmat"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.lsmat"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.lsmat"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.lsmat"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.lsmat"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.lsmat"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.lsmat"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.lsmat"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.lsmat"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.mesh"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.png"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.png"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.png"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.png"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.mesh"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.png"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.png"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.png"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.png"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.png"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.png"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.png"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.png"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.png"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.png"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.png"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.png"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.png"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.png"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.png"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.png"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.png"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.png"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.png"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.png"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.jpg"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.jpg"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.jpg"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.jpg"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.mesh"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.lsmat"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.lsmat"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.js"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.js"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.mesh"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.lsmat"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.mesh"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.js"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.png"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.png"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.png"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.png"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.lsmat"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.lsmat"
+                },
+                {
+                    "k": "103",
+                    "v": "Files\/File103.mesh"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104"
+                },
+                {
+                    "k": "105",
+                    "v": "Files\/File105.lsmat"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106"
+                },
+                {
+                    "k": "107",
+                    "v": "Files\/File107.lsmat"
+                },
+                {
+                    "k": "108",
+                    "v": "Files\/File108"
+                },
+                {
+                    "k": "109",
+                    "v": "Files\/File109.lsmat"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Scripts\/WorldObjectController.js"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "7",
+                        "v": "Textures\/DiffuseEnvmap.png"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Textures\/SpecularEnvmap.png"
+                    },
+                    {
+                        "k": "9",
+                        "v": "Meshes"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Meshes\/touch_collision.mesh"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Materials\/window_occluder.lsmat"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Materials\/touch_collision.lsmat"
+                    },
+                    {
+                        "k": "568",
+                        "v": "Broken_Windows_Free_Vector.png"
+                    },
+                    {
+                        "k": "569",
+                        "v": "Box.mesh"
+                    },
+                    {
+                        "k": "571",
+                        "v": "71990253-realistic-transparent-shards-of-broken-glass-broken-glass-vector.png"
+                    },
+                    {
+                        "k": "572",
+                        "v": "footprints-vector-20872.png"
+                    },
+                    {
+                        "k": "573",
+                        "v": "Plane.mesh"
+                    },
+                    {
+                        "k": "580",
+                        "v": "FlowerPot.png"
+                    },
+                    {
+                        "k": "582",
+                        "v": "grassland.png"
+                    },
+                    {
+                        "k": "583",
+                        "v": "system-file-manager.png"
+                    },
+                    {
+                        "k": "585",
+                        "v": "room-interior-empty-space-1521959856NbA.png"
+                    },
+                    {
+                        "k": "587",
+                        "v": "color-clock-icon-flat-vector-21651320.png"
+                    },
+                    {
+                        "k": "588",
+                        "v": "EvidenceNote.png"
+                    },
+                    {
+                        "k": "589",
+                        "v": "EvidenceAnswer1.png"
+                    },
+                    {
+                        "k": "590",
+                        "v": "broken-wooden-chair-with-green-seat-vector-9264514.png"
+                    },
+                    {
+                        "k": "614",
+                        "v": "imgbin-painting-decorative-arts-ico-icon-people-oil-painting-QTpSiJGMgXNjQ8GUW7UwPKYMk.png"
+                    },
+                    {
+                        "k": "630",
+                        "v": "EvidenceQuestion1Sm.jpg"
+                    },
+                    {
+                        "k": "631",
+                        "v": "EvidenceAnswer1 2.jpg"
+                    },
+                    {
+                        "k": "632",
+                        "v": "Evidence1v2"
+                    },
+                    {
+                        "k": "633",
+                        "v": "Evidence1v2\/Meshes"
+                    },
+                    {
+                        "k": "634",
+                        "v": "Evidence1v2\/Meshes\/Plane001.mesh"
+                    },
+                    {
+                        "k": "635",
+                        "v": "Evidence1v2\/Animations"
+                    },
+                    {
+                        "k": "636",
+                        "v": "Evidence1v2\/Materials"
+                    },
+                    {
+                        "k": "637",
+                        "v": "Evidence1v2\/Materials\/Material #49.lsmat"
+                    },
+                    {
+                        "k": "638",
+                        "v": "Evidence1v2\/Materials\/02 - Default.lsmat"
+                    },
+                    {
+                        "k": "639",
+                        "v": "Scripts\/IdleAnim.js"
+                    },
+                    {
+                        "k": "640",
+                        "v": "Scripts\/TapAnim.js"
+                    },
+                    {
+                        "k": "641",
+                        "v": "Meshes\/touch_collision 2.mesh"
+                    },
+                    {
+                        "k": "642",
+                        "v": "Materials\/touch_collision 2.lsmat"
+                    },
+                    {
+                        "k": "647",
+                        "v": "Meshes\/ground_grid.mesh"
+                    },
+                    {
+                        "k": "648",
+                        "v": "Scripts\/GroundGrid.js"
+                    },
+                    {
+                        "k": "649",
+                        "v": "Textures\/ground_grid.png"
+                    },
+                    {
+                        "k": "650",
+                        "v": "Textures\/ground_grid_mask.png"
+                    },
+                    {
+                        "k": "651",
+                        "v": "Materials\/ground_grid.lsmat"
+                    },
+                    {
+                        "k": "652",
+                        "v": "Materials\/matte_shadow.lsmat"
+                    },
+                    {
+                        "k": "653",
+                        "v": "Meshes\/plane.mesh"
+                    },
+                    {
+                        "k": "654",
+                        "v": "Materials\/touch_collision 3.lsmat"
+                    },
+                    {
+                        "k": "655",
+                        "v": "Evidence1v2\/Materials\/Material #49 2.lsmat"
+                    },
+                    {
+                        "k": "656",
+                        "v": "Evidence1v2\/Materials\/02 - Default 2.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "2",
+                        "v": "09a5c3ee815c9134ffc2d25e7355d78a"
+                    },
+                    {
+                        "k": "3",
+                        "v": "fb66ad4478ded59ebb2b4df94ba44105"
+                    },
+                    {
+                        "k": "5",
+                        "v": "caeea0e0bf0313ac710d99cb41b32f56"
+                    },
+                    {
+                        "k": "6",
+                        "v": "c423d0672421aae010ca988af5ed0711"
+                    },
+                    {
+                        "k": "7",
+                        "v": "f3c7322b1921640f1e8addb529e61451"
+                    },
+                    {
+                        "k": "8",
+                        "v": "d994602f35f0c8bdcc306035f784e608"
+                    },
+                    {
+                        "k": "10",
+                        "v": "ca6a55793555b88df4aca4a7329624e5"
+                    },
+                    {
+                        "k": "11",
+                        "v": "689694567843e90e551784dfa835e76e"
+                    },
+                    {
+                        "k": "13",
+                        "v": "8d8bc5a8fcaf2862796973b9a68e8321"
+                    },
+                    {
+                        "k": "14",
+                        "v": "d68a8b4dacc03cb82c1b2bde2ac8094a"
+                    },
+                    {
+                        "k": "15",
+                        "v": "7127129fea4de809ec774a8bf8c88305"
+                    },
+                    {
+                        "k": "18",
+                        "v": "fdb3e3b5d7c76bf820cede100456514f"
+                    },
+                    {
+                        "k": "19",
+                        "v": "0663e2be978bc6d1cda602bb91bdb093"
+                    },
+                    {
+                        "k": "20",
+                        "v": "19d7e51df6f1527509e10fbe532b8bb1"
+                    },
+                    {
+                        "k": "22",
+                        "v": "c24cf02ee9dccc8dc7f314d41a5b6d27"
+                    },
+                    {
+                        "k": "24",
+                        "v": "dee4253d9e94dd38d797b99a74a6474a"
+                    },
+                    {
+                        "k": "26",
+                        "v": "f67c3eee23f3f5ab7c5c7f4b271c4608"
+                    },
+                    {
+                        "k": "568",
+                        "v": "752b8e8f562e331d65b7f6f05f478665"
+                    },
+                    {
+                        "k": "569",
+                        "v": "0f22bac28f4bb7f9303722acb5d035e0"
+                    },
+                    {
+                        "k": "570",
+                        "v": "777e01a473242ccdbee4774f2ea6ddba"
+                    },
+                    {
+                        "k": "571",
+                        "v": "1c7d1d6b532b054d32245b909521220b"
+                    },
+                    {
+                        "k": "572",
+                        "v": "9f11d466f31a351825b8f99a70060468"
+                    },
+                    {
+                        "k": "573",
+                        "v": "3924da4ece660b56cdcb4f2b7b3fe66c"
+                    },
+                    {
+                        "k": "574",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "575",
+                        "v": "46d2574129d7e76351d16c610d00b255"
+                    },
+                    {
+                        "k": "576",
+                        "v": "1d1f45f059583b691405a0b385c0a10f"
+                    },
+                    {
+                        "k": "577",
+                        "v": "73a506eb1348f385bf17fc75c4dba0af"
+                    },
+                    {
+                        "k": "578",
+                        "v": "c06ddf56d2a4152bc8d9a8c7ae51e15d"
+                    },
+                    {
+                        "k": "579",
+                        "v": "9822aaeabc4372c34c62f7bd809d0f78"
+                    },
+                    {
+                        "k": "580",
+                        "v": "27eaeb1b321e533194b988da0526663d"
+                    },
+                    {
+                        "k": "581",
+                        "v": "fc402a4df5889f4869ed7f816cbc577b"
+                    },
+                    {
+                        "k": "582",
+                        "v": "9fc97fef8e3157de34ed3a9cf6aaa59c"
+                    },
+                    {
+                        "k": "583",
+                        "v": "b4e1c457c53335ca6152afdc8ed6812d"
+                    },
+                    {
+                        "k": "584",
+                        "v": "48feee270b85843dc0ab20fc37d2f878"
+                    },
+                    {
+                        "k": "585",
+                        "v": "7fe332a7691bec6b50703a7ef3734a50"
+                    },
+                    {
+                        "k": "586",
+                        "v": "b0ae25354b2643e439982890c063b403"
+                    },
+                    {
+                        "k": "587",
+                        "v": "d01cc9ef635edf2c01579e845c56c58f"
+                    },
+                    {
+                        "k": "588",
+                        "v": "ed38cec729a461de8e362d5f46bf7920"
+                    },
+                    {
+                        "k": "589",
+                        "v": "b61bf7f776199da318f45f01475566c5"
+                    },
+                    {
+                        "k": "590",
+                        "v": "1a249c1e7ba49205cc0e7e20a42ff997"
+                    },
+                    {
+                        "k": "591",
+                        "v": "f7af305f449858c51ee2b2d558f5e8ea"
+                    },
+                    {
+                        "k": "597",
+                        "v": "376f52c3ebecf9b747f4f27ec078396e"
+                    },
+                    {
+                        "k": "598",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "599",
+                        "v": "777e01a473242ccdbee4774f2ea6ddba"
+                    },
+                    {
+                        "k": "600",
+                        "v": "c06ddf56d2a4152bc8d9a8c7ae51e15d"
+                    },
+                    {
+                        "k": "601",
+                        "v": "c24cf02ee9dccc8dc7f314d41a5b6d27"
+                    },
+                    {
+                        "k": "602",
+                        "v": "19d7e51df6f1527509e10fbe532b8bb1"
+                    },
+                    {
+                        "k": "603",
+                        "v": "0663e2be978bc6d1cda602bb91bdb093"
+                    },
+                    {
+                        "k": "604",
+                        "v": "fdb3e3b5d7c76bf820cede100456514f"
+                    },
+                    {
+                        "k": "605",
+                        "v": "34749fd348c9831249d66f6f55403039"
+                    },
+                    {
+                        "k": "606",
+                        "v": "ca6a55793555b88df4aca4a7329624e5"
+                    },
+                    {
+                        "k": "607",
+                        "v": "c423d0672421aae010ca988af5ed0711"
+                    },
+                    {
+                        "k": "608",
+                        "v": "caeea0e0bf0313ac710d99cb41b32f56"
+                    },
+                    {
+                        "k": "609",
+                        "v": "09a5c3ee815c9134ffc2d25e7355d78a"
+                    },
+                    {
+                        "k": "610",
+                        "v": "2303d1e64500b8c2eebe95c9a24ac8b2"
+                    },
+                    {
+                        "k": "611",
+                        "v": "f67c3eee23f3f5ab7c5c7f4b271c4608"
+                    },
+                    {
+                        "k": "612",
+                        "v": "46d2574129d7e76351d16c610d00b255"
+                    },
+                    {
+                        "k": "613",
+                        "v": "b0ae25354b2643e439982890c063b403"
+                    },
+                    {
+                        "k": "614",
+                        "v": "dca5b60bbbfd719f9388e53fb3a35f2a"
+                    },
+                    {
+                        "k": "630",
+                        "v": "d73463dfe1fff6cb633320941cb457c3"
+                    },
+                    {
+                        "k": "631",
+                        "v": "74375a2577f2b6f4ed4926d04ff8b3d3"
+                    },
+                    {
+                        "k": "634",
+                        "v": "6edade86e466e9a1b5308b300b4c7cfe"
+                    },
+                    {
+                        "k": "637",
+                        "v": "aded491b2982744bcbb378cfb119f080"
+                    },
+                    {
+                        "k": "638",
+                        "v": "390eab95a078395bdee7b09f5c1d5fa6"
+                    },
+                    {
+                        "k": "639",
+                        "v": "ba19cc2ce2bdd604059da205db31d2e6"
+                    },
+                    {
+                        "k": "640",
+                        "v": "5aa6dc555b5697942f6c61b3ea6542ef"
+                    },
+                    {
+                        "k": "641",
+                        "v": "e9167dc2c6b4be6840fd00390a21b633"
+                    },
+                    {
+                        "k": "642",
+                        "v": "14008fd6cffc36a6f704030e2af7b5c8"
+                    },
+                    {
+                        "k": "647",
+                        "v": "ca6a55793555b88df4aca4a7329624e5"
+                    },
+                    {
+                        "k": "648",
+                        "v": "09a5c3ee815c9134ffc2d25e7355d78a"
+                    },
+                    {
+                        "k": "649",
+                        "v": "caeea0e0bf0313ac710d99cb41b32f56"
+                    },
+                    {
+                        "k": "650",
+                        "v": "c423d0672421aae010ca988af5ed0711"
+                    },
+                    {
+                        "k": "651",
+                        "v": "fba7df6d292ca425e0ef2bcb0cb91dc9"
+                    },
+                    {
+                        "k": "652",
+                        "v": "8067f6a604dee3ecf396ef5d1c25de3f"
+                    },
+                    {
+                        "k": "653",
+                        "v": "4649d59d58657e786eebaad58a052d2a"
+                    },
+                    {
+                        "k": "654",
+                        "v": "eddeed229f1063ca74fc359932bc322b"
+                    },
+                    {
+                        "k": "655",
+                        "v": "009fb133897cedb60bc6fd33f895bd1a"
+                    },
+                    {
+                        "k": "656",
+                        "v": "0e44ce434d9fe79f430584fd492b1dc9"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-01-18T21:42:57",
+                        "name": "Public",
+                        "hash": "66a6b26609dc9e391c425ef604a195ef",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T21:38:03",
+                                "name": "EvidenceQuestion1Sm.jpg",
+                                "hash": "d73463dfe1fff6cb633320941cb457c3",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-18T21:38:03",
+                                "name": "Evidence1v2",
+                                "hash": "92d5d7e8c5cb788d3f6911e14a4188fe",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-01-18T22:47:19",
+                                        "name": "Materials",
+                                        "hash": "b6d58b57329be4f58914206dcb93efbb",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-18T21:38:04",
+                                                "name": "02 - Default.lsmat",
+                                                "hash": "390eab95a078395bdee7b09f5c1d5fa6",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-18T21:38:04",
+                                                "name": "Material #49.lsmat",
+                                                "hash": "aded491b2982744bcbb378cfb119f080",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-18T22:47:19",
+                                                "name": "Material #49 2.lsmat",
+                                                "hash": "009fb133897cedb60bc6fd33f895bd1a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-18T22:47:19",
+                                                "name": "02 - Default 2.lsmat",
+                                                "hash": "0e44ce434d9fe79f430584fd492b1dc9",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-18T21:38:03",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-01-18T21:38:03",
+                                        "name": "Meshes",
+                                        "hash": "1ae1980002b82af7f71b3b3c3c5745ea",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-18T21:38:03",
+                                                "name": "Plane001.mesh",
+                                                "hash": "6edade86e466e9a1b5308b300b4c7cfe",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-18T21:38:03",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-01-18T21:38:03",
+                                        "name": "Animations",
+                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-18T21:38:03",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-18T21:38:03",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T21:38:03",
+                                "name": "EvidenceAnswer1 2.jpg",
+                                "hash": "74375a2577f2b6f4ed4926d04ff8b3d3",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T14:15:16",
+                                "name": "EvidenceAnswer1.png",
+                                "hash": "b61bf7f776199da318f45f01475566c5",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-18T22:47:18",
+                                "name": "Textures",
+                                "hash": "85ca0b430d811f92cd158179893523be",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-18T14:22:27",
+                                        "name": "DiffuseEnvmap.png",
+                                        "hash": "f3c7322b1921640f1e8addb529e61451",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-18T22:47:17",
+                                        "name": "ground_grid.png",
+                                        "hash": "caeea0e0bf0313ac710d99cb41b32f56",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-18T22:47:17",
+                                        "name": "ground_grid_mask.png",
+                                        "hash": "c423d0672421aae010ca988af5ed0711",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-18T14:14:54",
+                                        "name": "SpecularEnvmap.png",
+                                        "hash": "d994602f35f0c8bdcc306035f784e608",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T17:46:14",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-18T22:47:19",
+                                "name": "Materials",
+                                "hash": "96572b344f0508e299d6a4711388a341",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-18T22:47:19",
+                                        "name": "ground_grid.lsmat",
+                                        "hash": "fba7df6d292ca425e0ef2bcb0cb91dc9",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-18T22:46:47",
+                                        "name": "touch_collision 2.lsmat",
+                                        "hash": "14008fd6cffc36a6f704030e2af7b5c8",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-18T10:39:24",
+                                        "name": "touch_collision.lsmat",
+                                        "hash": "7127129fea4de809ec774a8bf8c88305",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-18T22:47:19",
+                                        "name": "touch_collision 3.lsmat",
+                                        "hash": "eddeed229f1063ca74fc359932bc322b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-18T10:39:23",
+                                        "name": "window_occluder.lsmat",
+                                        "hash": "d68a8b4dacc03cb82c1b2bde2ac8094a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-18T22:47:19",
+                                        "name": "matte_shadow.lsmat",
+                                        "hash": "8067f6a604dee3ecf396ef5d1c25de3f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T17:46:14",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T14:23:00",
+                                "name": "71990253-realistic-transparent-shards-of-broken-glass-broken-glass-vector.png",
+                                "hash": "1c7d1d6b532b054d32245b909521220b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T14:17:19",
+                                "name": "EvidenceNote.png",
+                                "hash": "ed38cec729a461de8e362d5f46bf7920",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T14:22:53",
+                                "name": "grassland.png",
+                                "hash": "9fc97fef8e3157de34ed3a9cf6aaa59c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T14:16:21",
+                                "name": "imgbin-painting-decorative-arts-ico-icon-people-oil-painting-QTpSiJGMgXNjQ8GUW7UwPKYMk.png",
+                                "hash": "dca5b60bbbfd719f9388e53fb3a35f2a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T14:27:19",
+                                "name": "color-clock-icon-flat-vector-21651320.png",
+                                "hash": "d01cc9ef635edf2c01579e845c56c58f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T14:25:34",
+                                "name": "system-file-manager.png",
+                                "hash": "b4e1c457c53335ca6152afdc8ed6812d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T14:24:25",
+                                "name": "FlowerPot.png",
+                                "hash": "27eaeb1b321e533194b988da0526663d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T14:26:50",
+                                "name": "footprints-vector-20872.png",
+                                "hash": "9f11d466f31a351825b8f99a70060468",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T21:42:53",
+                                "name": "room-interior-empty-space-1521959856NbA.png",
+                                "hash": "7fe332a7691bec6b50703a7ef3734a50",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T14:25:13",
+                                "name": "Broken_Windows_Free_Vector.png",
+                                "hash": "752b8e8f562e331d65b7f6f05f478665",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-18T22:47:18",
+                                "name": "Meshes",
+                                "hash": "2223124ca08fbe79789bd279f029970d",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T17:46:14",
+                                        "name": "touch_collision.mesh",
+                                        "hash": "689694567843e90e551784dfa835e76e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-18T22:47:17",
+                                        "name": "plane.mesh",
+                                        "hash": "4649d59d58657e786eebaad58a052d2a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-18T22:11:33",
+                                        "name": "touch_collision 2.mesh",
+                                        "hash": "e9167dc2c6b4be6840fd00390a21b633",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-18T22:47:17",
+                                        "name": "ground_grid.mesh",
+                                        "hash": "ca6a55793555b88df4aca4a7329624e5",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T17:46:14",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T11:39:46",
+                                "name": "Plane.mesh",
+                                "hash": "3924da4ece660b56cdcb4f2b7b3fe66c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-18T22:47:17",
+                                "name": "Scripts",
+                                "hash": "6c968f779527ee949d20eead2c5fb34e",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T17:46:13",
+                                        "name": "TapAnim.js",
+                                        "hash": "5aa6dc555b5697942f6c61b3ea6542ef",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T17:46:14",
+                                        "name": "WorldObjectController.js",
+                                        "hash": "fb66ad4478ded59ebb2b4df94ba44105",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T17:46:13",
+                                        "name": "IdleAnim.js",
+                                        "hash": "ba19cc2ce2bdd604059da205db31d2e6",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-18T22:47:17",
+                                        "name": "GroundGrid.js",
+                                        "hash": "09a5c3ee815c9134ffc2d25e7355d78a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T17:46:14",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T14:27:38",
+                                "name": "broken-wooden-chair-with-green-seat-vector-9264514.png",
+                                "hash": "1a249c1e7ba49205cc0e7e20a42ff997",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-18T10:56:47",
+                                "name": "Box.mesh",
+                                "hash": "0f22bac28f4bb7f9303722acb5d035e0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-11T17:46:14",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "WorldObjectController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "13",
+                                "dependency": "0",
+                                "uid": "1498868868171510:1508",
+                                "fileId": "6",
+                                "originalId": "18446744073709551615",
+                                "publicId": "3",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "IdleAnim",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "139",
+                                "dependency": "0",
+                                "uid": "1579403317394423:383337",
+                                "fileId": "88",
+                                "originalId": "18446744073709551615",
+                                "publicId": "639",
+                                "source": "\/Users\/Mitch\/Documents\/GitHub\/MITXRAssets\/untitled folder\/WindowScene\/QA\/Public\/Scripts\/IdleAnim.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TapAnim",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "140",
+                                "dependency": "0",
+                                "uid": "1579403317463503:383346",
+                                "fileId": "89",
+                                "originalId": "18446744073709551615",
+                                "publicId": "640",
+                                "source": "\/Users\/Mitch\/Documents\/GitHub\/MITXRAssets\/untitled folder\/WindowScene\/QA\/Public\/Scripts\/TapAnim.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "GroundGrid",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "144",
+                                "dependency": "0",
+                                "uid": "1579405637858591:617453",
+                                "fileId": "94",
+                                "originalId": "18446744073709551615",
+                                "publicId": "648",
+                                "source": "\/var\/folders\/39\/jz_3nqzj1mn0nzks85stsd0r0000gn\/T\/Lens Studio-KoMsAx\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "4",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "DiffuseEnvmap",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "93",
+                                "dependency": "0",
+                                "uid": "1511399347240779:2470",
+                                "fileId": "12",
+                                "originalId": "78",
+                                "publicId": "7",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "SpecularEnvmap",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "95",
+                                "dependency": "0",
+                                "uid": "1511399347247632:2494",
+                                "fileId": "14",
+                                "originalId": "75",
+                                "publicId": "8",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "ground_grid",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "145",
+                                "dependency": "0",
+                                "uid": "1579405637899090:617465",
+                                "fileId": "95",
+                                "originalId": "96",
+                                "publicId": "649",
+                                "source": "\/var\/folders\/39\/jz_3nqzj1mn0nzks85stsd0r0000gn\/T\/Lens Studio-KoMsAx\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "ground_grid_mask",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "146",
+                                "dependency": "0",
+                                "uid": "1579405638032741:617477",
+                                "fileId": "97",
+                                "originalId": "98",
+                                "publicId": "650",
+                                "source": "\/var\/folders\/39\/jz_3nqzj1mn0nzks85stsd0r0000gn\/T\/Lens Studio-KoMsAx\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "9",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "touch_collision",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "87",
+                                "dependency": "0",
+                                "uid": "1509583683665614:1822385",
+                                "fileId": "8",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "touch_collision 2",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "141",
+                                "dependency": "0",
+                                "uid": "1579403494004524:433593",
+                                "fileId": "90",
+                                "originalId": "18446744073709551615",
+                                "publicId": "641",
+                                "source": "\/var\/folders\/39\/jz_3nqzj1mn0nzks85stsd0r0000gn\/T\/Lens Studio-bNUCYY\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": ""
+                            },
+                            {
+                                "name": "ground_grid",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "143",
+                                "dependency": "0",
+                                "uid": "1579405637845614:617441",
+                                "fileId": "93",
+                                "originalId": "18446744073709551615",
+                                "publicId": "647",
+                                "source": "\/var\/folders\/39\/jz_3nqzj1mn0nzks85stsd0r0000gn\/T\/Lens Studio-KoMsAx\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": ""
+                            },
+                            {
+                                "name": "plane",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "149",
+                                "dependency": "0",
+                                "uid": "1579405638338742:617527",
+                                "fileId": "103",
+                                "originalId": "18446744073709551615",
+                                "publicId": "653",
+                                "source": "\/var\/folders\/39\/jz_3nqzj1mn0nzks85stsd0r0000gn\/T\/Lens Studio-KoMsAx\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "12",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "window_occluder",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "78",
+                                "dependency": "0",
+                                "uid": "1509493073991159:1772549",
+                                "fileId": "7",
+                                "originalId": "27",
+                                "publicId": "14",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "touch_collision",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "105",
+                                "dependency": "0",
+                                "uid": "1511404793151374:296403",
+                                "fileId": "16",
+                                "originalId": "28",
+                                "publicId": "15",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "touch_collision 2",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "142",
+                                "dependency": "0",
+                                "uid": "1579403494012356:433605",
+                                "fileId": "91",
+                                "originalId": "92",
+                                "publicId": "642",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "ground_grid",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "147",
+                                "dependency": "0",
+                                "uid": "1579405638145095:617489",
+                                "fileId": "99",
+                                "originalId": "100",
+                                "publicId": "651",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "matte_shadow",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "148",
+                                "dependency": "0",
+                                "uid": "1579405638231863:617508",
+                                "fileId": "101",
+                                "originalId": "102",
+                                "publicId": "652",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "touch_collision 3",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "150",
+                                "dependency": "0",
+                                "uid": "1579405638347964:617539",
+                                "fileId": "104",
+                                "originalId": "105",
+                                "publicId": "654",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Broken_Windows_Free_Vector",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "107",
+                        "dependency": "0",
+                        "uid": "1579362912458308:165371",
+                        "fileId": "30",
+                        "originalId": "31",
+                        "publicId": "568",
+                        "source": "\/Users\/Mitch\/Downloads\/Broken_Windows_Free_Vector\/Broken_Windows_Free_Vector.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Box",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "108",
+                        "dependency": "0",
+                        "uid": "1579363007464793:166914",
+                        "fileId": "32",
+                        "originalId": "18446744073709551615",
+                        "publicId": "569",
+                        "source": "\/var\/folders\/39\/jz_3nqzj1mn0nzks85stsd0r0000gn\/T\/Lens Studio-XNrKpG\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                        "additional": ""
+                    },
+                    {
+                        "name": "71990253-realistic-transparent-shards-of-broken-glass-broken-glass-vector",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "110",
+                        "dependency": "0",
+                        "uid": "1579364164563918:175520",
+                        "fileId": "35",
+                        "originalId": "36",
+                        "publicId": "571",
+                        "source": "\/Users\/Mitch\/Documents\/GitHub\/MITXRAssets\/untitled folder\/WindowScene\/71990253-realistic-transparent-shards-of-broken-glass-broken-glass-vector.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "footprints-vector-20872",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "111",
+                        "dependency": "0",
+                        "uid": "1579365435460711:180685",
+                        "fileId": "37",
+                        "originalId": "38",
+                        "publicId": "572",
+                        "source": "\/Users\/Mitch\/Documents\/GitHub\/MITXRAssets\/untitled folder\/WindowScene\/footprints-vector-20872.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Plane",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "112",
+                        "dependency": "0",
+                        "uid": "1579365586282559:184289",
+                        "fileId": "39",
+                        "originalId": "18446744073709551615",
+                        "publicId": "573",
+                        "source": "\/var\/folders\/39\/jz_3nqzj1mn0nzks85stsd0r0000gn\/T\/Lens Studio-XNrKpG\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                        "additional": ""
+                    },
+                    {
+                        "name": "FlowerPot",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "119",
+                        "dependency": "0",
+                        "uid": "1579366371595559:191704",
+                        "fileId": "52",
+                        "originalId": "53",
+                        "publicId": "580",
+                        "source": "\/Users\/Mitch\/Documents\/GitHub\/MITXRAssets\/untitled folder\/WindowScene\/FlowerPot.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "grassland",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "121",
+                        "dependency": "0",
+                        "uid": "1579366696321988:194422",
+                        "fileId": "55",
+                        "originalId": "56",
+                        "publicId": "582",
+                        "source": "\/Users\/Mitch\/Documents\/GitHub\/MITXRAssets\/untitled folder\/WindowScene\/grassland.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "system-file-manager",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "122",
+                        "dependency": "0",
+                        "uid": "1579367267820953:199143",
+                        "fileId": "57",
+                        "originalId": "58",
+                        "publicId": "583",
+                        "source": "\/Users\/Mitch\/Documents\/GitHub\/MITXRAssets\/untitled folder\/WindowScene\/system-file-manager.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "room-interior-empty-space-1521959856NbA",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "124",
+                        "dependency": "0",
+                        "uid": "1579367430047575:202197",
+                        "fileId": "61",
+                        "originalId": "62",
+                        "publicId": "585",
+                        "source": "\/Users\/Mitch\/Documents\/GitHub\/MITXRAssets\/untitled folder\/WindowScene\/room-interior-empty-space-1521959856NbA.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "color-clock-icon-flat-vector-21651320",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "126",
+                        "dependency": "0",
+                        "uid": "1579368032817915:217568",
+                        "fileId": "65",
+                        "originalId": "66",
+                        "publicId": "587",
+                        "source": "\/Users\/Mitch\/Documents\/GitHub\/MITXRAssets\/untitled folder\/WindowScene\/color-clock-icon-flat-vector-21651320.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "EvidenceNote",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "127",
+                        "dependency": "0",
+                        "uid": "1579368912411971:229369",
+                        "fileId": "67",
+                        "originalId": "68",
+                        "publicId": "588",
+                        "source": "\/Users\/Mitch\/Documents\/GitHub\/MITXRAssets\/untitled folder\/EvidenceNote.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "EvidenceAnswer1",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "128",
+                        "dependency": "0",
+                        "uid": "1579371743471967:254571",
+                        "fileId": "69",
+                        "originalId": "70",
+                        "publicId": "589",
+                        "source": "\/Users\/Mitch\/Documents\/GitHub\/MITXRAssets\/untitled folder\/WindowScene\/EvidenceAnswer1.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "broken-wooden-chair-with-green-seat-vector-9264514",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "129",
+                        "dependency": "0",
+                        "uid": "1579374120468269:272067",
+                        "fileId": "71",
+                        "originalId": "72",
+                        "publicId": "590",
+                        "source": "\/Users\/Mitch\/Documents\/GitHub\/MITXRAssets\/untitled folder\/WindowScene\/WindowScene\/broken-wooden-chair-with-green-seat-vector-9264514.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "imgbin-painting-decorative-arts-ico-icon-people-oil-painting-QTpSiJGMgXNjQ8GUW7UwPKYMk",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "131",
+                        "dependency": "0",
+                        "uid": "1579374999035303:294420",
+                        "fileId": "76",
+                        "originalId": "77",
+                        "publicId": "614",
+                        "source": "\/Users\/Mitch\/Documents\/GitHub\/MITXRAssets\/untitled folder\/WindowScene\/WindowScene\/Public\/imgbin-painting-decorative-arts-ico-icon-people-oil-painting-QTpSiJGMgXNjQ8GUW7UwPKYMk.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "EvidenceQuestion1Sm",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "132",
+                        "dependency": "0",
+                        "uid": "1579401483603325:321332",
+                        "fileId": "79",
+                        "originalId": "80",
+                        "publicId": "630",
+                        "source": "\/var\/folders\/39\/jz_3nqzj1mn0nzks85stsd0r0000gn\/T\/Lens Studio-DqVJLV\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "EvidenceAnswer1 2",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "133",
+                        "dependency": "0",
+                        "uid": "1579401483718681:321344",
+                        "fileId": "81",
+                        "originalId": "82",
+                        "publicId": "631",
+                        "source": "\/var\/folders\/39\/jz_3nqzj1mn0nzks85stsd0r0000gn\/T\/Lens Studio-DqVJLV\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Evidence1v2",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "632",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "633",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Plane001",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "134",
+                                        "dependency": "0",
+                                        "uid": "1579401483810012:321360",
+                                        "fileId": "83",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "634",
+                                        "source": "\/var\/folders\/39\/jz_3nqzj1mn0nzks85stsd0r0000gn\/T\/Lens Studio-DqVJLV\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "635",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Plane001",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "135",
+                                        "dependency": "0",
+                                        "uid": "1579401483820918:321373",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Plane002",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "136",
+                                        "dependency": "0",
+                                        "uid": "1579401483822649:321400",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Plane001 2",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "151",
+                                        "dependency": "0",
+                                        "uid": "1579405638491053:617558",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Plane002 2",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "152",
+                                        "dependency": "0",
+                                        "uid": "1579405638492621:617585",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "636",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Material #49",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "137",
+                                        "dependency": "0",
+                                        "uid": "1579401483825281:321427",
+                                        "fileId": "84",
+                                        "originalId": "85",
+                                        "publicId": "637",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "02 - Default",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "138",
+                                        "dependency": "0",
+                                        "uid": "1579401483916439:321442",
+                                        "fileId": "86",
+                                        "originalId": "87",
+                                        "publicId": "638",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Material #49 2",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "153",
+                                        "dependency": "0",
+                                        "uid": "1579405638497098:617612",
+                                        "fileId": "106",
+                                        "originalId": "107",
+                                        "publicId": "655",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "02 - Default 2",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "154",
+                                        "dependency": "0",
+                                        "uid": "1579405638620673:617627",
+                                        "fileId": "108",
+                                        "originalId": "109",
+                                        "publicId": "656",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
